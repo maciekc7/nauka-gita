@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+body p, h1 {
+    color: white;
+}
+
+p, h1 {
+    margin-left: 20px;
+}
