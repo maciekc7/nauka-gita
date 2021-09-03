@@ -8,10 +8,14 @@ body {
     align-items: center;
 }
 
-body p, h1 {
+body p {
     color: white;
 }
 
 p, h1 {
     margin-left: 20px;
+}
+
+h1 {
+    color: darkred;
 }
